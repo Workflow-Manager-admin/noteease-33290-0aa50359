@@ -1,0 +1,5 @@
+{
+  "task_description": "{'description': 'A simple notes application for creating, editing, and managing user notes.', 'containers': [{'container_name': 'notes_app_frontend', 'platform': 'mobile', 'framework': 'kotlin', 'description': 'Frontend interface for users to interact with the notes application.', 'interfaces': 'Mobile app user interface for notes management', 'relative_path': 'notes_app_frontend_workspace', 'dependencies': [], 'container_type': 'mobile', 'container_details': {'features': ['User can create notes', 'User can edit notes', 'User can delete notes', 'User can view list of notes', 'Responsive UI for mobile'], 'colors': {'primary': '#1976D2', 'secondary': '#424242', 'accent': '#FFEB3B'}, 'theme': 'light', 'layout_description': 'A main view displaying list of notes, floating button to add a new note, and details view for editing/creating notes.', 'style': 'minimalistic'}}], '3rd_party_services': [], 'figma_components': '', 'manifest_path': '/home/kavia/workspace/code-generation/.project_manifest.yaml'}",
+  "tasks": {},
+  "next_task_id": 1
+}

@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew installDebug",
+    "working_directory": "/home/kavia/workspace/code-generation/noteease-33290-0aa50359/notes_app_frontend_workspace/notes_app_frontend"
+}
